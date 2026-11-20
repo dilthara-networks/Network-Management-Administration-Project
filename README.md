@@ -47,21 +47,25 @@ The virtual machines were configured to communicate within the virtual network.
 
 ## Repository Structure
 
+This repository contains the project documentation and screenshots demonstrating the implementation and testing of the network services.
+
 ```text
 Network-Management-Administration-Project/
 │
 ├── README.md
-├── report/
-│   └── assignment-report-redacted.pdf
 │
-└── screenshots/
-    ├── 01-zimbra-admin-console.jpg
-    ├── 02-samba-organizational-units.png
-    ├── 03-samba-domain-users.png
-    ├── 04-domain-membership-realm-list.jpg
-    ├── 05-apache-service-status.jpg
-    └── 06-apache-browser-output.jpg
+├── assignment-report-redacted.pdf
+│
+├── 01-zimbra-admin-console.jpg
+├── 02-samba-organizational-units.png
+├── 03-samba-domain-users.png
+├── 04-domain-membership-realm-list.jpg
+├── 05-apache-service-status.jpg
+└── 06-apache-browser-output.jpg
 ```
+
+**Note:** The repository includes the academic project report and screenshots as evidence of the practical implementation.
+
 
 ## Key Learning Outcomes
 
